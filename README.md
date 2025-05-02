@@ -1,8 +1,7 @@
-# Hi there 👋 it's me Jasswanth
+## Hi there 👋 it's me Jasswanth
 
 
-Here are some ideas to get you started:
-
+###Software developer Aspirant
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

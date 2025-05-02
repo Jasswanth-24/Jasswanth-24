@@ -3,10 +3,8 @@
 
 ### Software developer Aspirant
 - 🔭 I’m currently Fresh graduate
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java Full stack
 - 👯 I’m looking to collaborate on Java Full stack projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Full stack web application
-- 📫 How to reach me: [this is for link](https://www.linkedin.com/in/jasswanth-s)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
+- 📫 How to reach me: [Linkedin-jasswanth](https://www.linkedin.com/in/jasswanth-s), [Mail-jasswanth](jasswanth.24@gmail.com)
+

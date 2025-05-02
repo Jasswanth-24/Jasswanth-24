@@ -9,4 +9,5 @@
 - 📫 How to reach me: [Linkedin-jasswanth](https://www.linkedin.com/in/jasswanth-s), [Mail-jasswanth](jasswanth.24@gmail.com)
 
 **Social presence**
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+<br/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >

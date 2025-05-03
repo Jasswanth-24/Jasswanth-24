@@ -15,4 +15,4 @@
 
 
 # 💻 Tech Stack:
-<i class="fa-brands fa-html5" style="color: #f77102;"></i>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>

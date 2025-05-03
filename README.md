@@ -1,7 +1,7 @@
 ## Hi there 👋 it's me Jasswanth
 
 
-###### Software developer Aspirant
+##### Software developer Aspirant
 - 🔭 I’m currently Fresh graduate
 - 🌱 I’m currently learning Java Full stack
 - 👯 I’m looking to collaborate on Java Full stack projects
@@ -22,6 +22,7 @@
 
 
 ![# 📊 GitHub Stats:](https://github-readme-stats.vercel.app/api?username=Jasswanth-24&theme=dark&show_icons=true&&hide=issues,contribs)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasswanth-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo

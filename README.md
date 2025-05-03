@@ -13,7 +13,6 @@
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" >](https://www.hackerrank.com/profile/sjasswanth)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/jasswanth-s)
 
----
 
-## 💻 Tech Stack:
-
+# 💻 Tech Stack:
+<i class="fa-brands fa-html5" style="color: #f77102;"></i>

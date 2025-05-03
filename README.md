@@ -14,4 +14,4 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/jasswanth-s)
 
 ---
-<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-computer-program-with-defined-codes-research-layout-programing-bold-tal-revivo.png" alt="external-computer-program-with-defined-codes-research-layout-programing-bold-tal-revivo"/>Tech Stack
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/studio-display.png" alt="studio-display"/> Tech Stack

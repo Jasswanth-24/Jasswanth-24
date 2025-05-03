@@ -21,7 +21,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
 
 
-![Jasswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasswanth-24&theme=dark&show_icons=true&&hide=issues,contribs)
+![# 📊 GitHub Stats:](https://github-readme-stats.vercel.app/api?username=Jasswanth-24&theme=dark&show_icons=true&&hide=issues,contribs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasswanth-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jasswanth-24&limit=5&theme=dark&combine_all_yearly_contributions=true)

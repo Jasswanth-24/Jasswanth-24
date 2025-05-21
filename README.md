@@ -1,9 +1,17 @@
 ## Hi there 👋 it's me Jasswanth
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-### Software Developer💻
 
+ ### Software Developer👨‍💻
+- 🔭 I’m currently working at Sunsmart Technologies as an Angular Developer
 
+🌱 I’m currently focused on building frontend projects and integrating APIs using Angular
+
+👯 I’m looking to collaborate on Java Full Stack projects
+
+💬 Ask me anything about Java Full Stack development and Angular frontend frameworks
+
+🎓 I am a Certified Java Full Stack Developer
 
 **Social presence**
 <br/>

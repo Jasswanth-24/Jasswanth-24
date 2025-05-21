@@ -2,12 +2,16 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
-##### Software developer Aspirant
+💻 Software Developer
+🔭 I’m currently working at Sunsmart Technologies as an Angular Developer
 
-- 🔭 I’m currently Fresh graduate
-- 🌱 I’m currently learning Java Full stack
-- 👯 I’m looking to collaborate on Java Full stack projects
-- 💬 Ask me anything about Full stack development
+🌱 I’m currently focused on building frontend projects and integrating APIs using Angular
+
+👯 I’m looking to collaborate on Java Full Stack projects
+
+💬 Ask me anything about Java Full Stack development or Angular frontend frameworks
+
+🎓 I am a Certified Java Full Stack Developer
 
 **Social presence**
 <br/>

@@ -5,13 +5,13 @@
  ### Software Developer👨‍💻
 - 🔭 I’m currently working at Sunsmart Technologies as an Angular Developer
 
-🌱 I’m currently focused on building frontend projects and integrating APIs using Angular
+-🌱 I’m currently focused on building frontend projects and integrating APIs using Angular
 
-👯 I’m looking to collaborate on Java Full Stack projects
+-👯 I’m looking to collaborate on Java Full Stack projects
 
-💬 Ask me anything about Java Full Stack development and Angular frontend frameworks
+-💬 Ask me anything about Java Full Stack development and Angular frontend frameworks
 
-🎓 I am a Certified Java Full Stack Developer
+-🎓 I am a Certified Java Full Stack Developer
 
 **Social presence**
 <br/>

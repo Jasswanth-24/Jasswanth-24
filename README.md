@@ -16,7 +16,7 @@
 ### ✍️ Writing
 
 - I write tech blogs on Medium about **Tech**, **AI**, **Career Growth**, and **Web Development**.  
-  [📖 Read my articles on Medium](https://medium.com/@jasswanth24)
+  [📖 Read my articles on Medium](https://medium.com/@jasswanth.24)
 
 
 **Social presence**

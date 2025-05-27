@@ -13,7 +13,7 @@
 - 💬 Ask me anything about Java Full Stack development and Angular frontend frameworks
 
 - 🎓 I am a Certified Java Full Stack Developer
-### ✍️ Writing
+### ✍️ Blogger
 
 - I write tech blogs on Medium about **Tech**, **AI**, **Career Growth**, and **Web Development**.  
   [📖 Read my articles on Medium](https://medium.com/@jasswanth.24)
